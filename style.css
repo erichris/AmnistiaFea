@@ -1,0 +1,94 @@
+body {
+  background-color: black;
+}
+
+.PI_container{
+  position: absolute;
+  top: -3vw;
+}
+
+.AppIcon{
+  position: absolute;
+  width: calc(60vw);
+  top: -8vw;
+  left: -5vw;
+}
+
+.Titulo{
+  position: absolute;
+  width: calc(40vw);
+  top: 10vw;
+}
+
+.Subtitulo{
+  position: absolute;
+  width: calc(40vw);
+  top: 30vw;
+}
+
+.Logos1{
+  position: absolute;
+  width: calc(15vw);
+  top: 3vw;
+  left: 0vw;
+}
+
+.Logos2{
+  position: absolute;
+  width: calc(15vw);
+  top: 3vw;
+  left: 20vw;
+}
+
+.BotonStart{
+  position: absolute;
+  width: calc(30vw);
+  top: 2.3vw;
+  left: 10vw;
+}
+
+.BotonStart2{
+  position: absolute;
+  width: calc(30vw);
+  top: 2.3vw;
+  left: 10vw;
+  opacity: 0;
+}
+
+.BotonStart2:hover {
+  opacity: 1;
+}
+
+#Transparent{
+  opacity = 0;
+}
+
+.TI_C1{
+  position: absolute;
+  width: calc(46vw);
+  height: 39vw;
+  padding: 5px;
+}
+
+.TI_C2{
+  position: absolute;
+  left: 50vw;
+  height: 39vw;
+  width: calc(54vw);
+  padding: 5px;
+}
+
+.TI_C3{
+  position: absolute;
+  width: calc(46vw);
+  top: 39vw;
+  padding: 5px;
+}
+
+.TI_C4{
+  position: absolute;
+  width: calc(54vw);
+  top: 39vw;
+  left: 50vw;
+  padding: 5px;
+}

@@ -1,0 +1,181 @@
+*{
+  border: none !important;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+body {
+  background-color: black;
+  overflow-x: hidden;
+}
+
+#Enredadera{
+  position: absolute;
+  width: calc(100vw);
+  top: -3vw;
+}
+
+#Frase1{
+  position: absolute;
+  width: calc(39vw);
+  top: 0vw;
+}
+
+#Frase2{
+  position: absolute;
+  width: calc(40vw);
+
+}
+
+#Frase3{
+  position: absolute;
+  width: calc(40vw);
+}
+
+#Icono{
+  position: absolute;
+  width: calc(30vw);
+  top: -7vw;
+  left: -5vw;
+}
+
+#Btn{
+  position: absolute;
+  width: calc(30vw);
+}
+
+#BtnH{
+  position: absolute;
+  width: calc(30vw);
+  opacity: 0;
+}
+
+#BtnH:hover {
+  opacity: 1;
+}
+
+#Btn2{
+  position: absolute;
+  width: calc(25vw);
+  top: 15vw;
+}
+
+#Btn1H{
+  position: absolute;
+  width: calc(25vw);
+  top: 15vw;
+  opacity: 0;
+}
+
+#Btn1H:hover {
+  opacity: 1;
+}
+
+#Btn2H{
+  position: absolute;
+  width: calc(25vw);
+  top: 15vw;
+  opacity: 0;
+}
+
+#Btn2H:hover {
+  opacity: 1;
+}
+
+#Logo1{
+  position: absolute;
+  width: calc(14vw);
+}
+
+#Logo2{
+  position: absolute;
+  width: calc(14vw);
+  left: 16vw;
+}
+
+#Hashtag{
+  position: absolute;
+  width: calc(40vw);
+  top: 15vw;
+}
+
+#S_C1{
+  position: absolute;
+  width: calc(100vw);
+  height: auto;
+  top: -.5vw;
+}
+
+#S_C2{
+  position: absolute;
+  width: calc(100vw);
+  height: auto;
+  top: 11vw;
+  left: 8vw;
+}
+
+#S_C3{
+  position: absolute;
+  width: calc(100vw);
+  height: auto;
+  left: 50vw;
+  top: 10vw;
+}
+
+#S_C4{
+  position: absolute;
+  width: calc(50vw);
+  height: auto;
+  top: -.5vw;
+}
+
+#S_C5{
+  position: absolute;
+  width: calc(50vw);
+  height: auto;
+  top: 15vw;
+}
+
+#S_C6{
+  position: absolute;
+  width: calc(50vw);
+  height: auto;
+  top: 27vw;
+  left:-1vw;
+}
+
+#S_C7{
+  position: absolute;
+  width: calc(50vw);
+  height: auto;
+  left: 15vw;
+}
+
+#S_C8{
+  position: absolute;
+  width: calc(25vw);
+  height: auto;
+  top: 18vw;
+  left: 10vw;
+}
+
+#S_C9{
+  position: absolute;
+  width: calc(25vw);
+  height: auto;
+  top: 26.5vw;
+  left: 10vw;
+}
+
+#S_C10{
+  position: absolute;
+  width: calc(40vw);
+  height: auto;
+}
+
+#S_C11{
+  position: absolute;
+  width: calc(40vw);
+  height: auto;
+}

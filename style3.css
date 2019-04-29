@@ -1,0 +1,162 @@
+*{
+  border: none !important;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+body {
+  background-color: yellow;
+  overflow-x: hidden;
+}
+
+#Enredadera{
+  position: absolute;
+  width: calc(100vw);
+  top: -3vw;
+}
+
+#Frase1{
+  position: absolute;
+  width: calc(40vw);
+  top: 0vw;
+}
+
+#Frase2{
+  position: absolute;
+  width: calc(40vw);
+
+}
+
+#Btn1{
+  position: absolute;
+  width: calc(25vw);
+  top: 15vw;
+}
+
+#Btn2{
+  position: absolute;
+  width: calc(25vw);
+  top: 15vw;
+}
+
+#Btn1H{
+  position: absolute;
+  width: calc(25vw);
+  top: 15vw;
+  opacity: 0;
+}
+
+#Btn1H:hover {
+  opacity: 1;
+}
+
+#Btn2H{
+  position: absolute;
+  width: calc(25vw);
+  top: 15vw;
+  opacity: 0;
+}
+
+#Btn2H:hover {
+  opacity: 1;
+}
+
+#Logo1{
+  position: absolute;
+  width: calc(15vw);
+}
+
+#Logo2{
+  position: absolute;
+  width: calc(15vw);
+  left: 20vw;
+}
+
+#Hashtag{
+  position: absolute;
+  width: calc(40vw);
+  top: 15vw;
+}
+
+#F_C1{
+  position: absolute;
+  width: calc(100vw);
+  height: auto;
+  top: -.5vw;
+}
+
+#F_C2{
+  position: absolute;
+  width: calc(100vw);
+  height: auto;
+  top: 14vw;
+  left: 8vw;
+}
+
+#F_C3{
+  position: absolute;
+  width: calc(100vw);
+  height: auto;
+  left: 50vw;
+  top: -.3vw;
+}
+
+#F_C4{
+  position: absolute;
+  width: calc(50vw);
+  height: auto;
+  top: -.5vw;
+}
+
+#F_C5{
+  position: absolute;
+  width: calc(50vw);
+  height: auto;
+  top: 15vw;
+}
+
+#F_C6{
+  position: absolute;
+  width: calc(25vw);
+  height: auto;
+  left: 12.5vw;
+  top: .5vw;
+}
+
+#F_C7{
+  position: absolute;
+  width: calc(50vw);
+  height: auto;
+  top: 23vw;
+}
+
+#F_C8{
+  position: absolute;
+  width: calc(25vw);
+  height: auto;
+  top: 0vw;
+}
+
+#F_C9{
+  position: absolute;
+  width: calc(25vw);
+  height: auto;
+  top: 8vw;
+}
+
+#F_C10{
+  position: absolute;
+  width: calc(40vw);
+  height: auto;
+  left: 7.5vw;
+  top: 10vw;
+}
+
+#F_C11{
+  position: absolute;
+  width: calc(40vw);
+  height: auto;
+  top: 2.5vw;
+  left: 12vw;
+}
